@@ -19,13 +19,13 @@ Application de calculatrice développée en **Java** avec **Android Studio**, da
 
 ## 🚀 Installer et tester l'application
 
-### Option 1 — Installer l'APK directement (le plus simple)
+### Option 1 - Installer l'APK directement (le plus simple)
 
 1. Va dans l'onglet [**Releases**](../../releases) de ce dépôt.
 2. Télécharge le fichier `app-debug.apk` de la dernière version.
 3. Transfère-le sur un téléphone Android et installe-le (l'autorisation d'installer depuis des « sources inconnues » peut être demandée).
 
-### Option 2 — Compiler le projet soi-même
+### Option 2 - Compiler le projet soi-même
 
 1. Clone ce dépôt : `git clone https://github.com/Targariyen/Calculatrice_android.git`
 2. Ouvre le dossier dans **Android Studio**.
